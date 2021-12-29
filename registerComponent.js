@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 
-const url = "https://developerjwt.herokuapp.com/api/auth/register";
+//const url = "https://developerjwt.herokuapp.com/api/auth/register";
 //const url ="https://loginregisterapi.herokuapp.com/api/auth/register";
 
 
